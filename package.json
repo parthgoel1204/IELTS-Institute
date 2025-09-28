@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://parthgoel1204.github.io/IELTS-Institute",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
